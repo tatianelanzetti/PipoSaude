@@ -82,9 +82,9 @@ Campo gerado automaticamente.
 Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
 </remarks>
 </member>
-<member name="F:PipoSaude.Cadastro._txtNovaEmpresa">
+<member name="F:PipoSaude.Cadastro._planoPampulhaIntermedica">
 <summary>
-Controle txtNovaEmpresa.
+Controle planoPampulhaIntermedica.
 </summary>
 <remarks>
 Campo gerado automaticamente.
@@ -94,6 +94,87 @@ Modificar a declaração do campo de movimento do arquivo de designer para o arq
 <member name="F:PipoSaude.Cadastro._lblPampulhaIntermedica">
 <summary>
 Controle lblPampulhaIntermedica.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:PipoSaude.Cadastro._planoMenteSaCorpoSao">
+<summary>
+Controle planoMenteSaCorpoSao.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:PipoSaude.Cadastro._lblMenteSaCorpoSao">
+<summary>
+Controle lblMenteSaCorpoSao.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:PipoSaude.Cadastro._planoDentalSorriso1">
+<summary>
+Controle planoDentalSorriso1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:PipoSaude.Cadastro._lblDetalSorriso1">
+<summary>
+Controle lblDetalSorriso1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:PipoSaude.Cadastro._planoNorteEuropa">
+<summary>
+Controle planoNorteEuropa.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:PipoSaude.Cadastro._lblNorteEuropa">
+<summary>
+Controle lblNorteEuropa.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:PipoSaude.Cadastro._planoDentalSorriso2">
+<summary>
+Controle planoDentalSorriso2.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:PipoSaude.Cadastro._lblDentalSorriso2">
+<summary>
+Controle lblDentalSorriso2.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:PipoSaude.Cadastro._txtNovaEmpresa">
+<summary>
+Controle txtNovaEmpresa.
 </summary>
 <remarks>
 Campo gerado automaticamente.

@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Cadastro.aspx" />
-    <Content Include="Estilos\passtrength.css" />
+    <Content Include="Estilos\Cadastro.css" />
     <Content Include="Imagens\logo.jpg" />
     <Content Include="Scripts\jquery.passtrength.min.js" />
     <Content Include="Web.config" />
